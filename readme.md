@@ -27,3 +27,7 @@ Hyperlane-based ZKP Router:- Proofs and public inputs are relayed from L1 to L2 
 Cache + ZkISM:- Using the base ISM provided by Hyperlane, we have created our custom routing ISM which caches output for particular proofs and public inputs so that there is no need to reverify again. Also, using the off-chain agent, you have an additional option to verify the L2 result off-chain.
 
 Offchain-agent(Secondary):- Along with Noir Interchain Dev Kit, you get a prebuilt off-chain agent which you can pair with the custom ISM to add an additional verification layer for your project. This agent will run an off-chain verifier for the same circuit and will generate outputs based on the proof and public input received on the L1 router.
+
+# Team members
+Arman Aurobindo<br>
+Shreyas Padmakiran
