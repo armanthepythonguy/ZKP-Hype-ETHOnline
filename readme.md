@@ -30,4 +30,5 @@ Offchain-agent(Secondary):- Along with Noir Interchain Dev Kit, you get a prebui
 
 # Team members
 Arman Aurobindo<br>
-Shreyas Padmakiran
+Shreyas Padmakiran<be>
+ayushsingh82
